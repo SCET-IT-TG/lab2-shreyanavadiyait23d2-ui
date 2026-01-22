@@ -1,4 +1,4 @@
-db = db.getSiblingDB("compnyDB");
+db = db.getSiblingDB("companyDB");
 
 
 db.employees.insertMany([
